@@ -1,4 +1,10 @@
 <div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=142&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
@@ -17,13 +23,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://www.image2url.com/r2/default/gifs/1790089378256-032abc5d-2f8b-4f29-a9d4-64d6b8e595ee.gif"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="343" src="https://www.image2url.com/r2/default/gifs/1790089833383-3ad083b0-4330-4e71-b4a9-2389b945c2c8.gif"  />
+  <img data-importer="image" height="350" src="https://www.image2url.com/r2/default/gifs/1790089378256-032abc5d-2f8b-4f29-a9d4-64d6b8e595ee.gif"  />
 </div>
 
 ###
@@ -52,8 +52,16 @@
 
 ###
 
+<br clear="both">
+
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://www.image2url.com/r2/default/gifs/1790090021172-bf7cdb3f-5e61-4d9c-856c-1fc1147da9dd.gif"  />
+  <img data-importer="image" height="350" src="https://www.image2url.com/r2/default/gifs/1790090021172-bf7cdb3f-5e61-4d9c-856c-1fc1147da9dd.gif"  />
+</div>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://www.image2url.com/r2/default/gifs/1790089833383-3ad083b0-4330-4e71-b4a9-2389b945c2c8.gif"  />
 </div>
 
 ###
