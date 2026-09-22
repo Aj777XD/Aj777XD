@@ -1,3 +1,9 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=142&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -48,12 +54,6 @@
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://www.image2url.com/r2/default/gifs/1790090021172-bf7cdb3f-5e61-4d9c-856c-1fc1147da9dd.gif"  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
